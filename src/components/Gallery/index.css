@@ -1,0 +1,14 @@
+/* Write your code here. */
+img {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  padding: 30px;
+}
+ul {
+  display: flex;
+  padding: 0px;
+}
